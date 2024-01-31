@@ -1,8 +1,9 @@
-**A Motion and Illumination Resistant Non-Contact Method Using Undercomplete Independent Component Analysis and Levenberg-Marquardt Algorithm**
+**A Motion and Illumination Resistant Non-Contact Method Using Undercomplete Independent Component Analysis and Levenberg-Marquardt Algorithm** https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9691855
 This is an official implementation of U-LMA, and its Negentropy based variant in MATLAB environment.
 
-![U-LMA](https://github.com/guptaankit894/U_LMA/assets/48688147/fb8d7aec-c37f-4ff8-a34a-5d61d80e3396)
 
+
+![Capture](https://github.com/guptaankit894/U_LMA/assets/48688147/19d41a50-edcd-4587-be79-90155871533e)
 
 This code requires a video of atleast 25 seconds as input and outputs the SNRs and mean heart rate values of both variants i.e., U-LMA, and U-Neg.
 
